@@ -17,7 +17,7 @@ Project Nautilus is the Naval subdivision of the xFusionCorp Industries. Nautilu
 5. Laser Guidance Systems
 
 ## Application Architecture
-Nautilus deployment architecture can be viewed here ![ ](Kodekloud engineer.jpeg)
+Nautilus deployment architecture can be viewed here ![ ](https://raw.githubusercontent.com/jbangurajr/kodekloud-engineer/master/assets/img/Kodekloud%20engineer.jpeg)
 
 The Nautilus is a three-tier application and is deployed in the Stratos Datacenter in the North America Region.
 
